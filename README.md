@@ -2,12 +2,13 @@
 
 # Installing Truffle
 Before you can use Truffle, you will have to install it using npm. Open a terminal and use the following to install it globally.
-npm install -g truffle
+<h6>npm install -g truffle</h6>
 
 # Compiling
-Compile the smart contracts:
+Compile the smart contracts navaigate the project forlder run commmend:
 
-truffle compile
+<h6>truffle compile</h6>
+  
 You will see the following output:
 
 
